@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Architecture"
+  short_description: "Organize code by feature ownership"
+  default_prompt: "Use $feature-architecture to implement this change with feature-owned domain, API, data access, optional UI, and collocated Vitest tests."
