@@ -10,7 +10,7 @@ Install any skill from this repo with:
 npx skills@latest add kzisopoulos/skills/<skill-name>
 ```
 
-Available skills:
+Current available skills:
 
 ```bash
 npx skills@latest add kzisopoulos/skills/create-plan
