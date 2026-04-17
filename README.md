@@ -15,6 +15,6 @@ Current available skills:
 ```bash
 npx skills@latest add kzisopoulos/skills/create-plan
 npx skills@latest add kzisopoulos/skills/create-skill
+npx skills@latest add kzisopoulos/skills/create-tasks
 npx skills@latest add kzisopoulos/skills/feature-architecture
-npx skills@latest add kzisopoulos/skills/plan-to-tasks
 ```
