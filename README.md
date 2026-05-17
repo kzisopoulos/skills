@@ -13,6 +13,7 @@ npx skills@latest add kzisopoulos/skills/<skill-name>
 Current available skills:
 
 ```bash
+npx skills@latest add kzisopoulos/skills/code
 npx skills@latest add kzisopoulos/skills/create-plan
 npx skills@latest add kzisopoulos/skills/create-skill
 npx skills@latest add kzisopoulos/skills/create-tasks
